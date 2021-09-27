@@ -10,12 +10,9 @@
 │   ├── javascripts
 │   └── main.js   
 ├── stylesheets
-│   ├── css
-│   │   └── style.css
-│   └── scss
-│       └── style.scss
+│   └── style.css
 ├── routes
 │   └── index.js
 └── views
     └── index.html
-``` 
+```
